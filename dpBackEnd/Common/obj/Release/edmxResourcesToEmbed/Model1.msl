@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dpWeatherEntitiesStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Requests">
+      <EntityTypeMapping TypeName="dpWeatherEntities.Request">
+        <MappingFragment StoreEntitySet="Requests">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Desc" ColumnName="Desc" />
+          <ScalarProperty Name="Temperature" ColumnName="Temperature" />
+          <ScalarProperty Name="Humidity" ColumnName="Humidity" />
+          <ScalarProperty Name="WindSpeed" ColumnName="WindSpeed" />
+          <ScalarProperty Name="WindDirection" ColumnName="WindDirection" />
+          <ScalarProperty Name="WindDirectionInDegrees" ColumnName="WindDirectionInDegrees" />
+          <ScalarProperty Name="TimeStamp" ColumnName="TimeStamp" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="dpWeatherEntities.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="EmailRequest" ColumnName="EmailRequest" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Weathers">
+      <EntityTypeMapping TypeName="dpWeatherEntities.Weather">
+        <MappingFragment StoreEntitySet="Weather">
+          <ScalarProperty Name="W_Id" ColumnName="W_Id" />
+          <ScalarProperty Name="Main" ColumnName="Main" />
+          <ScalarProperty Name="Desc" ColumnName="Desc" />
+          <ScalarProperty Name="Temperature" ColumnName="Temperature" />
+          <ScalarProperty Name="Humidity" ColumnName="Humidity" />
+          <ScalarProperty Name="WindSpeed" ColumnName="WindSpeed" />
+          <ScalarProperty Name="WindDirection" ColumnName="WindDirection" />
+          <ScalarProperty Name="WindDirectionInDegrees" ColumnName="WindDirectionInDegrees" />
+          <ScalarProperty Name="TimeStamp" ColumnName="TimeStamp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

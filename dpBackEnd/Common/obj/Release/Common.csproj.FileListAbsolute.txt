@@ -1,0 +1,14 @@
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\Common.dll.config
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\Common.dll
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\Common.pdb
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\EntityFramework.dll
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\RestSharp.dll
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\EntityFramework.xml
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\bin\Release\RestSharp.xml
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\obj\Release\Common.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\obj\Release\Common.csproj.CopyComplete
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\obj\Release\Common.dll
+C:\Users\sasha\source\repos\dpassignment\dpBackEnd\Common\obj\Release\Common.pdb
